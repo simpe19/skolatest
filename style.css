@@ -1,8 +1,26 @@
-.box {
+.border {
+    border: 5px solid rgb(27, 25, 25);
+    fill: aqua;
+}
+ img{ 
+    width: 500px;
+}
+#div1 {
+    margin-top: 0px;
     background-color: aqua;
-    height: 100px;
-    width: 100px;
-    border: 2px solid black;
-    margin: 100px;
-    padding: 10px;
+    
+    
+}
+#div2 {
+    background-color: aqua;
+    margin-top: 0px;
+    
+    
+
+}
+#bild1 {
+    
+    margin-top: 0px;
+    margin-left: 200px;
+    align-content: center;
 }
