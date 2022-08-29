@@ -1,0 +1,27 @@
+.top-div {
+    background-color: black;
+    height: 50px;  
+    width: 1140px;
+    margin-left: 350px; 
+}
+.top-diver {
+    background-color: aqua;
+    height: 25px;
+}
+.top-div .social {
+    color: white;
+    font-size: larger;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    padding-right: 1rem;
+    
+}
+
+.kenkata {
+    padding-left: 2rem;
+    padding-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
